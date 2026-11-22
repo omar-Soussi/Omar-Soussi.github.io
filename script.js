@@ -8,14 +8,12 @@
      SOCIAL LINKS: paste full profile links; leave "" to hide.
      WhatsApp is always shown.
      ========================================================== */
-  // PLACEHOLDERS: these point to the platforms' home pages for now.
-  // Replace each with Omar's real profile link, e.g. "https://instagram.com/omar.soussi"
   var SOCIAL = {
-    instagram: "https://www.instagram.com/",
-    facebook:  "https://www.facebook.com/",
-    linkedin:  "https://www.linkedin.com/",
-    youtube:   "https://www.youtube.com/",
-    tiktok:    "https://www.tiktok.com/"
+    instagram: "https://www.instagram.com/omarsoussi2003/",
+    facebook:  "https://www.facebook.com/omar.soussi.306608",
+    linkedin:  "",
+    youtube:   "",
+    tiktok:    ""
   };
   var root = document.documentElement;
   root.classList.add("js");
